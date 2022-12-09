@@ -1,0 +1,18 @@
+17	6 (A B C D  E  F)
+Sahelanthropus_tchadensis 100000
+Ardipithecus_ramidus 011000
+Australopithecus_anamensis 011000
+Australopithecus_afarensis 111000
+Australopithecus_garhi 010000
+Australopithecus_africanus 000010
+Australopithecus_sediba 000010
+Paranthropus_aethiopicus 001000
+Paranthropus_robustus 000010
+Paranthropus_boisei 001100
+Homo_habilis 011010
+Homo_rudolfensis 001100
+Homo_erectus 011010
+Pan_troglodytes 001001
+Pan_paniscus 000001
+Gorilla_gorilla 000001
+Gorilla_berengei 001001
